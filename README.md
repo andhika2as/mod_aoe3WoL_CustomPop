@@ -1,2 +1,24 @@
 # mod_aoe3WoL_CustomPop
-Mod for Age of Empires III: Wars of Liberty with 0 Pop Mil, 1 pop eco, higher count outpost &amp; dock, and various balance
+Mod for Age of Empires III: Wars of Liberty with Military Chaos
+
+==================================================
+NOTE: DONT USE FOR GLOBAL MULTIPLAYER GAME
+==================================================
+Main Feature:
+- 0 Pop Militiary,
+- 1 pop economy units,
+- higher count outpost &amp; dock Limit
+
+various balance:
+- much higher fish food pool
+- Whale gatherlimit up to 10
+- Caravel &amp; equivalent ship limit increase
+- Native limit x3*
+
+ (*some native maybe skipped)
+
+Known Issue:
+- Russian has problem with Blockhouse Unit Creations.
+
+File Modified:
+- protoy.xml
