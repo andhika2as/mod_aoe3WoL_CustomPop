@@ -22,3 +22,9 @@ Known Issue:
 
 File Modified:
 - protoy.xml
+
+Install: 
+replace protoy.xml file to
+..\Age Of Empires 3\bin\data
+For steam:
+..\SteamLibrary\steamapps\common\Age Of Empires 3\bin\data
